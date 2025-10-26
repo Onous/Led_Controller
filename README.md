@@ -3,9 +3,7 @@
 A Flutter IoT application for controlling smart devices and monitoring sensors via Firebase.
 
 ## App Preview
-
-### Home Screen
-!(preview.png)
+![App Screenshot](/preview.png)
 
 ## Features
 - Control Red LED via Firebase
