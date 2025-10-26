@@ -396,7 +396,8 @@ class SmartDeviceBox extends StatelessWidget {
             child: Switch(
               value: powerOn,
               onChanged: onChanged,
-              activeColor: Colors.greenAccent, // This is actually still supported for now
+              activeColor: Colors.greenAccent, 
+              
               inactiveThumbColor: Colors.grey.shade600,
             ),
           ),
