@@ -1,0 +1,73 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter/Dart/Pub
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+/lib/screens/firebase_options.dart
+# Android
+/android/app/google-services.json  # ⚠️ CRITICAL: Don't commit Firebase config!
+/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+/android/app/src/main/jniLibs/
+/android/app/src/main/assets/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# iOS
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Runner/GeneratedPluginRegistrant.*
+/ios/Pods/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Windows
+/windows/flutter/generated_plugin_registrant.cc
+/windows/flutter/generated_plugins.cmake
+
+# Linux
+/linux/flutter/generated_plugin_registrant.cc
+/linux/flutter/generated_plugins.cmake
+
+# MacOS
+/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Web
+/web/
+
+# Local config files
+.env
+.env.local
+*.key
+*.keystore
