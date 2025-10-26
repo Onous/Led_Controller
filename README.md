@@ -2,6 +2,11 @@
 
 A Flutter IoT application for controlling smart devices and monitoring sensors via Firebase.
 
+## App Preview
+
+### Home Screen
+!(preview.png)
+
 ## Features
 - Control Red LED via Firebase
 - Real-time temperature and humidity monitoring
